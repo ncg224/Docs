@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lomba/Documents/Carola/Programmazione/Git_Apparound/Docs/myWorld/myWorld.csproj": {}
+  },
+  "projects": {
+    "/Users/lomba/Documents/Carola/Programmazione/Git_Apparound/Docs/myWorld/myWorld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lomba/Documents/Carola/Programmazione/Git_Apparound/Docs/myWorld/myWorld.csproj",
+        "projectName": "myWorld",
+        "projectPath": "/Users/lomba/Documents/Carola/Programmazione/Git_Apparound/Docs/myWorld/myWorld.csproj",
+        "packagesPath": "/Users/lomba/.nuget/packages/",
+        "outputPath": "/Users/lomba/Documents/Carola/Programmazione/Git_Apparound/Docs/myWorld/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lomba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
